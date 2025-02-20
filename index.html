@@ -49,41 +49,41 @@
     <h2>Audio Samples</h2>
     
     <div class="tabs">
-        <div class="tab active" data-tab="hindi_audio_samples" onclick="showTab('hindi_audio_samples')">Language 1</div>
-        <div class="tab" data-tab="language2" onclick="showTab('language2')">Language 2</div>
+        <div class="tab active" data-tab="hindi_audio_samples" onclick="showTab('hindi_audio_samples')">Hindi</div>
+        <div class="tab" data-tab="tamil_audio_samples" onclick="showTab('Tamil')">Tamil</div>
     </div>
     
     <div id="hindi_audio_samples" class="tab-content active">
         <div class="audio-container">
-            <p>Sample 1</p>
+            <p>Baseline Model (without markers)</p>
             <audio controls>
                 <source src="hindi_audio_samples/synthesized_baseline_without_markers_with_1.5hrs_of_story_data.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </div>
         <div class="audio-container">
-            <p>Sample 2</p>
+            <p>Syllable-level Model (11 pitch markers)</p>
             <audio controls>
                 <source src="hindi_audio_samples/synthesized_pitch_with_energy_syllable_11markers.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </div>
         <div class="audio-container">
-            <p>Sample 2</p>
+            <p>Syllable-level Model (31 pitch markers)</p>
             <audio controls>
                 <source src="hindi_audio_samples/synthesized_pitch_with_energy_syllable_31markers.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </div>
         <div class="audio-container">
-            <p>Sample 2</p>
+            <p>Word-level Model (11 pitch markers)</p>
             <audio controls>
                 <source src="hindi_audio_samples/synthesized_pitch_with_energy_word_11markers.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </div>
         <div class="audio-container">
-            <p>Sample 2</p>
+            <p>Word-level Model (31 pitch markers)</p>
             <audio controls>
                 <source src="hindi_audio_samples/synthesized_pitch_with_energy_word_31markers.wav" type="audio/wav">
                 Your browser does not support the audio element.
@@ -91,21 +91,28 @@
         </div>
     </div>
     
-    <!-- <div id="language2" class="tab-content">
+    <div id="tamil_audio_samples" class="tab-content">
         <div class="audio-container">
-            <p>Sample 1</p>
+            <p>Baseline Model (without markers)</p>
             <audio controls>
-                <source src="language2/sample1.wav" type="audio/wav">
+                <source src="tamil_audio_samples/iit_stry_base_1.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </div>
         <div class="audio-container">
-            <p>Sample 2</p>
+            <p>Syllable-level Model (11 pitch markers)</p>
             <audio controls>
-                <source src="language2/sample2.wav" type="audio/wav">
+                <source src="tamil_audio_samples/iit_stry_syl.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </div>
-    </div> -->
+        <div class="audio-container">
+            <p>Word-level Model (11 pitch markers)</p>
+            <audio controls>
+                <source src="tamil_audio_samples/iit_stry_wrd.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        </div>
+    </div>
 </body>
 </html>
