@@ -1,0 +1,139 @@
+    <div id="extra_samples/syllable" class="tab-content">
+        <h2>Syllable-Level Model Audio Samples</h2>
+        <!-- <div style="padding: 20px 0;"></div> -->
+        <!-- <table>
+            <tr>
+                <th>Model</th>
+                <th>Text</th>
+                <th>Audio Sample</th>
+            </tr>
+            <tr>
+                <td>Baseline Model (no markers)</td>
+                <td>$rAmdUsrIkakषAmEqpaढtAhऐ.</td>
+                <td>
+                    <audio controls>
+                        <source src="extra_samples/syllable/baseline_0m_1.wav" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </td>
+            </tr>
+        </table> -->
+        <div style="padding: 20px 0;"></div>
+        <h3>Energy Variations</h3>
+        <table>
+            <tr>
+                <th>Sample No</th>
+                <th>Marked Text</th>
+                <th>Audio Sample</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>$$1kO२2jA४1mak१1kaള६,1pIr२4pA१1la१3rom०2ba२1pu५1gaZn४1dAङ१1ga୩. (energy marker: 1)</td>
+                <td>
+                    <audio controls>
+                        <source src="extra_samples/syllable/syl_11m_1.wav" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>$2kO२2jA४1mak१1kaള६,1pIr२4pA१1la१3rom०2ba२1pu५1gaZn४1dAङ१1ga୩. (energy marker: 2)</td>
+                <td>
+                    <audio controls>
+                        <source src="extra_samples/syllable/syl_11m_2.wav" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>$3kO२2jA४1mak१1kaള६,1pIr२4pA१1la१3rom०2ba२1pu५1gaZn४1dAङ१1ga୩. (energy marker: 3)</td>
+                <td>
+                    <audio controls>
+                        <source src="extra_samples/syllable/syl_11m_3.wav" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>$4kO२2jA४1mak१1kaള६,1pIr२4pA१1la१3rom०2ba२1pu५1gaZn४1dAङ१1ga୩. (energy marker: 4)</td>
+                <td>
+                    <audio controls>
+                        <source src="extra_samples/syllable/syl_11m_4.wav" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>$5kO२2jA४1mak१1kaള६,1pIr२4pA१1la१3rom०2ba२1pu५1gaZn४1dAङ१1ga୩. (energy marker: 5)</td>
+                <td>
+                    <audio controls>
+                        <source src="extra_samples/syllable/syl_11m_5.wav" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </td>
+            </tr>
+        </table>
+        <div style="padding: 20px 0;"></div>
+        <h3>Pitch Variations</h3>
+        <table>
+            <tr>
+                <th>Sample No</th>
+                <th>Marked Text</th>
+                <th>Audio Sample</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>$5kO୩2jA४1mak१1kaള६,1pIr२4pA१1la१3rom०2ba२1pu५1gaZn४1dAङ१1ga୩.</td>
+                <td>
+                    <audio controls>
+                        <source src="extra_samples/syllable/syl_11m_6.wav" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>$5kO०2jA४1mak१1kaള६,1pIr२4pA१1la१3rom०2ba२1pu५1gaZn४1dAङ१1ga୩.</td>
+                <td>
+                    <audio controls>
+                        <source src="extra_samples/syllable/syl_11m_7.wav" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>$5kO१2jA४1mak१1kaള६,1pIr२4pA१1la१3rom०2ba२1pu५1gaZn४1dAङ१1ga୩.</td>
+                <td>
+                    <audio controls>
+                        <source src="extra_samples/syllable/syl_11m_8.wav" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>$5kO४2jA४1mak१1kaള६,1pIr२4pA१1la१3rom०2ba२1pu५1gaZn४1dAङ१1ga୩.</td>
+                <td>
+                    <audio controls>
+                        <source src="extra_samples/syllable/syl_11m_9.wav" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>$5kO३2jA४1mak१1kaള६,1pIr२4pA१1la१3rom०2ba२1pu५1gaZn४1dAङ१1ga୩.</td>
+                <td>
+                    <audio controls>
+                        <source src="extra_samples/syllable/syl_11m_10.wav" type="audio/wav">
+                        Your browser does not support the audio element.
+                    </audio>
+                </td>
+            </tr>
+        </table>
+    </div>
